@@ -66,12 +66,6 @@ df_ffill
 ```
 ![image](https://github.com/user-attachments/assets/aff4eb3c-21c3-4158-bf9f-541c3bd4101b)
 
-```python
-# FILL NULL VALUES WITH bfill METHOD
-df_bfill=df.bfill()
-df_bfill
-```
-![image](https://github.com/user-attachments/assets/d86b061a-859a-4973-9497-2812f336dbd9)
 
 ```python
 # CALCULATE MEAN VALUE OF A COLUMN AND FILL IT WITH NULL VALUES
